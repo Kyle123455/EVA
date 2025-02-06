@@ -19,5 +19,3 @@ const animateOnScroll = () => {
     }
   });
 };
-
-window.addEventListener('scroll', animateOnScroll);
